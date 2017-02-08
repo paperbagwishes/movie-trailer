@@ -1,4 +1,5 @@
 // Global Stylesheet
+// Good place for files to go, 16 pages long
 
 // Color Palette
 $primary-color: gold;
@@ -7,6 +8,7 @@ $secondary-color: purple;
 
 // Video Player Styling
 video {
+    border: 10px solid red;
     max-width: 100%;
     width: 100%;
 }
