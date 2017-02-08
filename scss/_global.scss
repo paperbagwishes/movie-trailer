@@ -5,6 +5,10 @@
 $primary-color: gold;
 $secondary-color: purple;
 
+// Typeography hide for moble and tablet
+article h1 {
+    display: none;
+}
 
 // Video Player Styling
 video {
