@@ -1,8 +1,7 @@
 // Global Stylesheet
 // Good place for files to go, 16 pages long
-
 body {
-    background: blue;
+    background: orange;
 }
 
 // Typeography hide for moble and tablet
@@ -12,7 +11,8 @@ article h1 {
 
 // Video Player Styling
 video {
-    border: 10px solid blue;
-    max-width: 100%;
-    width: 100%;
+  border-style: solid;
+   border: 20px solid #ddd;
+   max-width: 100%;
+   width: 100%;
 }
