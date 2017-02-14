@@ -1,9 +1,9 @@
 // Global Stylesheet
 // Good place for files to go, 16 pages long
 
-// Color Palette
-$primary-color: gold;
-$secondary-color: purple;
+body {
+    background: blue;
+}
 
 // Typeography hide for moble and tablet
 article h1 {
@@ -12,7 +12,7 @@ article h1 {
 
 // Video Player Styling
 video {
-    border: 10px solid red;
+    border: 10px solid blue;
     max-width: 100%;
     width: 100%;
 }
